@@ -1,4 +1,4 @@
-# Winter 2019 Developer Intern Challenge RestFul API Documentation Joon Choi
+# Winter 2019 Developer Intern Challenge RestFul API Documentation
 # Joon Choi, joonkbjc@gmail.com
 
 ### Create a new Shop
