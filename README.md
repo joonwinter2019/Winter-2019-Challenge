@@ -19,6 +19,6 @@ chmod 755 ./setup.sh
 ## RESTful API Documentation
 
 ```
-Please refer to API_DOC.md
+Please refer to API_DOC folder
 
 ```
