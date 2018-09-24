@@ -1,5 +1,5 @@
 ## Winter 2019 Developer Intern Challenge Question
-## Joon Cho / joonkbjc@gmail.com
+## Joon Choi / joonkbjc@gmail.com
 
 
 ## Install/Running:
